@@ -1,10 +1,10 @@
-let color = "red";
+let colors = "red";
 
-switch(color){
+switch(colors){
     case "red":
         console.log("YOU HAVE TO STOP !");
         break;
-    case "Yellow":
+    case "yellow":
         console.log( " You have to wait for the green light to go");
         break;
     case "green":
