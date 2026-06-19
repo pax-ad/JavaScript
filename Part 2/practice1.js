@@ -1,3 +1,4 @@
+// based on if statement
 let color = "red";
 if (color === "red"){
     console.log("YOU HAVE TO STOP !");}
