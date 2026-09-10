@@ -19,3 +19,4 @@ const apple = {
 
 //apple[1] in console will show the 'apple'.
 
+// using the dot operator apple.1 through an error "unexpected number".
