@@ -8,3 +8,4 @@ let student = {
 
 let student1 = [ "shradha",25,"munich"];
 
+// use const keyword for creating the object.
