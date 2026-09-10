@@ -21,3 +21,4 @@ let number = Math.floor(Math.random()*10) + 1;
 
 /*adding one because we are never gonna see the 1
  since random will generate only b/w (0 to 1) in which one is not included * 10 will not give us range from 1 to 9 so for 1 to 10 we are adding +1 for range : 1 to 10;  
+*/
