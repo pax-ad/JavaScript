@@ -11,3 +11,11 @@ const Student2 = {
 //accessing 
 Student["useraname"];
 Student.useraname;
+
+//even if we create a key as number, the number will be converted to string.
+const apple = {
+    1: "apple"
+};
+
+//apple[1] in console will show the 'apple'.
+
